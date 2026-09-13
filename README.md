@@ -1,6 +1,6 @@
 ## Hi I am Nimesh 👋
 ### 📚 Learning . 💻 Building . 🚀 Growing
-Learning programming, Exploring technology, and slowly building projects. University is more than attending classes, it's about building real world skills that actually matter, experimenting with new things, and preparing myself for future ✨
+Undergrad learning android development and building skills in java & DSA. University is more than attending classes, it's about building real world skills that actually matter, experimenting with new things, and preparing yourself for future ✨
 
 #### Beyond coding :
 - Logo and poster designing
