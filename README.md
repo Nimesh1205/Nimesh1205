@@ -1,6 +1,8 @@
-## Hi I am Nimesh 👋
-### 📚 Learning . 💻 Building . 🚀 Growing
-I am an undergrad learning android development and building skills in java & DSA. University is more than attending classes, it's about building real world skills that actually matter, experimenting with new things, and preparing yourself for future ✨
+## Hi Nimesh here👋
+### 📚 Currently learning
+Building mini projects with Dart & Flutter while strengthening my skills in Java & DSA.
+-
+fh
 
 #### Beyond coding :
 - Logo and poster designing
