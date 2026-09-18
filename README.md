@@ -1,15 +1,18 @@
 ## Hi Nimesh here👋
-### 📚 Currently learning
+## 📚 Currently learning
 Building mini projects with Dart & Flutter while strengthening my skills in Java & DSA.
 
------
-fh
+--
+## 🚀 Already good at
+Python | Numpy | Pandas | Matplotlib | JavaScript | HTML | CSS
+
+--
 
 #### Beyond coding :
-- Logo and poster designing
-- Sculpture and general pencil sketching
-- Reading novellas
-- Football
+- I do logo and poster designing
+- I am exceptionally good at Sculpture and pencil sketching
+- Love reading novellas & watching anime
+- Football is must
 
 <!--
 **NimeshKK05/NimeshKK05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
