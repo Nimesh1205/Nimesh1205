@@ -2,11 +2,11 @@
 ## 📚 Currently learning
 Building mini projects with Dart & Flutter while strengthening my skills in Java & DSA.
 
---
+---
 ## 🚀 Already good at
 Python | Numpy | Pandas | Matplotlib | JavaScript | HTML | CSS
 
---
+---
 
 #### Beyond coding :
 - I do logo and poster designing
