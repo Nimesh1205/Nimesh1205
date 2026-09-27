@@ -1,10 +1,10 @@
-## Hi Nimesh here👋
+## Hi! Nimesh here👋
 ### 📚 Currently learning
 Building mini projects with Dart & Flutter while strengthening my skills in Java & DSA.
 
 ---
 ### 🚀 Already good at
-Python | Numpy | Pandas | Matplotlib | JavaScript | HTML | CSS
+Python | Numpy | Pandas | Matplotlib | JavaScript | HTML | CSS | C
 
 ---
 
