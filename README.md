@@ -1,4 +1,4 @@
-## Hi! Nimesh here👋
+## Hello! Nimesh here👋
 ### 📚 Currently learning
 Building mini projects with Dart & Flutter while strengthening my skills in Java & DSA.
 
