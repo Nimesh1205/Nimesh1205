@@ -1,11 +1,10 @@
 ## Hello! Nimesh here👋
----
-### 📚 Currently learning-
+### 📚 Currently learning
 - Learning and building android application using flutter
 - Data structures in java
 - Grinding leetcode
-
-### 🚀 Tech Stack -
+---
+### 🚀 Tech Stack
 - Python
 - Numpy, pandas, matplotlib
 - Java
@@ -13,8 +12,7 @@
 - HTML & CSS
 - JavaScript
 ---
-
-### 🤧 About me -
+### 🤧 About me 
 - I do logo and poster designing
 - I am exceptionally good at Sculpture and pencil sketching
 - Love reading novellas & watching anime
