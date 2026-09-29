@@ -1,14 +1,20 @@
 ## Hello! Nimesh here👋
-### 📚 Currently learning
-Building mini projects with Dart & Flutter while strengthening my skills in Java & DSA.
-
 ---
-### 🚀 Already good at
-Python | Numpy | Pandas | Matplotlib | JavaScript | HTML | CSS | C
+### 📚 Currently learning-
+- Learning and building android application using flutter
+- Data structures in java
+- Grinding leetcode
 
+### 🚀 Tech Stack -
+- Python
+- Numpy, pandas, matplotlib
+- Java
+- C
+- HTML & CSS
+- JavaScript
 ---
 
-#### Beyond coding :
+### 🤧 About me -
 - I do logo and poster designing
 - I am exceptionally good at Sculpture and pencil sketching
 - Love reading novellas & watching anime
