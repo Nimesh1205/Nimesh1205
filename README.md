@@ -1,6 +1,6 @@
 ## Hello! Nimesh here👋
 ### 📚 Currently learning
-- Learning and building android application using flutter
+- Learning and building web and android applications
 - Data structures in java
 - Grinding leetcode
 ---
