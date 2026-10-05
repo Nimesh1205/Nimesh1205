@@ -11,7 +11,9 @@
 <h3 data-importer="text" align="left">About me✨</h3>
 
 ###
+
 <p data-importer="text" align="left">I am an undergrad learning web technologies and java backend development.</p>
+
 ###
 
 ---
@@ -22,7 +24,7 @@
 <p data-importer="text" align="left">- Learning and Building softwares📱<br>- DSA in java📚<br>- Grinding LeetCode⚡</p>
 
 ###
-
+---
 <h3 data-importer="text" align="left">Language and tools🚀</h3>
 
 ###
