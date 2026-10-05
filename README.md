@@ -1,68 +1,61 @@
-## Hello! Nimesh here👋
-### 📚 Currently learning
-- Learning and building web and android applications
-- Data structures in java
-- Grinding leetcode
----
-### 🚀 Tech Stack
-- Python
-- Numpy, pandas, matplotlib
-- Java
-- C
-- HTML & CSS
-- JavaScript
----
-### 🤧 About me 
-- I do logo and poster designing
-- I am exceptionally good at Sculpture and pencil sketching
-- Love reading novellas & watching anime
-- Football is must
-
-<h2 data-importer="text" align="left">Hello! Nimesh here👋</h2>
-
-###
-
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<h4 data-importer="text" align="left">Tech Stack🚀</h4>
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css logo"  />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media1.tenor.com/m/sNBSrREGHMsAAAAC/summer-october.gif"  />
 </div>
 
 ###
 
-<p data-importer="text" align="left">Learning and building software📱<br>DSA in java 🚀<br>Grinding Leetcode 🧑‍💻</p>
+<div data-importer="socials" align="center">
+  <a href="https://x.com/nimo05_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
 
 ###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**NimeshKK05/NimeshKK05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 data-importer="text" align="center">Hello! Nimesh Here👋</h1>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 data-importer="text" align="left">About me✨</h3>
+
+###
+
+<br clear="both">
+
+<p data-importer="text" align="left">I am an undergrad learning web technologies and java backend development.</p>
+
+###
+
+<h3 data-importer="text" align="left">Currently working on🔥</h3>
+
+###
+
+<p data-importer="text" align="left">- Learning and Building softwares📱<br>- DSA in java📚<br>- Grinding LeetCode⚡</p>
+
+###
+
+<h3 data-importer="text" align="left">Language and tools🚀</h3>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+</div>
+
+###
