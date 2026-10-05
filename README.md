@@ -5,9 +5,11 @@
 ###
 <h1 data-importer="text" align="center">Hello! Nimesh Here👋</h1>
 ###
-<h3 data-importer="text" align="left">About me✨</h3>
-###
 
+<h3 data-importer="text" align="left">About me✨</h3>
+
+###
+---
 <p data-importer="text" align="left">I am an undergrad learning web technologies and java backend development.</p>
 
 ###
