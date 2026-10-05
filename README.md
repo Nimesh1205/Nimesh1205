@@ -26,6 +26,7 @@
 
 ###
 
+<h4 data-importer="text" align="left">Tech Stack🚀</h4>
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
