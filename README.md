@@ -49,8 +49,12 @@
 
 ###
 ---
-<p align="center">
-  A passionate developer learning Java, DSA, and Flutter.
-  I enjoy building projects, solving problems, and continuously
-  improving my development skills.
-</p>
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://tenor.com/view/naruto-thumbsup-like-good-nice-gif-18648997"  />
+</div>
+
+###
+
+<p align="center">“Hard work is worthless for those that don’t believe in themselves.”<br>~Naruto Uzumaki</p>
