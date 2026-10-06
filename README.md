@@ -57,4 +57,4 @@
 
 ###
 
-<p align="center">“Hard work is worthless for those that don’t believe in themselves.”<br>~Naruto Uzumaki</p>
+<p align="center">“Hard work is worthless for those who don’t believe in themselves.”<br>~Naruto Uzumaki</p>
