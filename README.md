@@ -51,7 +51,9 @@
 ---
 ###
 
-<div class="tenor-gif-embed" data-postid="18648997" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/naruto-thumbsup-like-good-nice-gif-18648997">Naruto Thumbsup GIF</a>from <a href="https://tenor.com/search/naruto-gifs">Naruto GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyZWFhczR5Y2FqeHh5ZW10NHl4Nm81bnFib2l6Y3FrM2ZnYnF1NmhtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nBvri64uO4sX6/giphy.gif"/>
+</div>
 
 ###
 
