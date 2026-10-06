@@ -8,16 +8,16 @@
 
 ###
 
-<h3 data-importer="text" align="left">About me✨</h3>
+<h3 data-importer="text" align="left">🤧 About me</h3>
 
 ###
 
-<p data-importer="text" align="left">I am an undergrad learning web technologies and java backend development.</p>
+<p data-importer="text" align="left">Undergraduate developer focused on web technologies and Java backend development, with an interest in building scalable, real-world applications.</p>
 
 ###
 
 ---
-<h3 data-importer="text" align="left">Currently working on🔥</h3>
+<h3 data-importer="text" align="left">🎯 Currently working on</h3>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 ---
-<h3 data-importer="text" align="left">Language and tools🚀</h3>
+<h3 data-importer="text" align="left">🔥 Tech stack</h3>
 
 ###
 
