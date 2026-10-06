@@ -52,7 +52,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://tenor.com/view/naruto-thumbsup-like-good-nice-gif-18648997"  />
+  <img data-importer="image" height="150" src="https://tenor.com/bqpCr.gif"  />
 </div>
 
 ###
