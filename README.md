@@ -48,3 +48,9 @@
 </div>
 
 ###
+---
+<p align="center">
+  A passionate developer learning Java, DSA, and Flutter.
+  I enjoy building projects, solving problems, and continuously
+  improving my development skills.
+</p>
