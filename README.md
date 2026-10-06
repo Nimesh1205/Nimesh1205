@@ -51,9 +51,7 @@
 ---
 ###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://tenor.com/bqpCr.gif"  />
-</div>
+<div class="tenor-gif-embed" data-postid="18648997" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/naruto-thumbsup-like-good-nice-gif-18648997">Naruto Thumbsup GIF</a>from <a href="https://tenor.com/search/naruto-gifs">Naruto GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
