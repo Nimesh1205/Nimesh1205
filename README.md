@@ -21,7 +21,7 @@
 
 ###
 
-<p data-importer="text" align="left">- Learning and Building softwares📱<br>- DSA in java📚<br>- Grinding LeetCode⚡</p>
+<p data-importer="text" align="left">- Learning backend development📱<br>- DSA in java📚<br>- Grinding LeetCode⚡</p>
 
 ###
 ---
